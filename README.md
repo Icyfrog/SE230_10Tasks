@@ -4,7 +4,7 @@
 
 --------------------------------------------------
 
-    说实话，sjtu的门户网站真的很好看了，构局很精巧，色彩搭配也很棒。暂且拿它和 [教育信息服务网](http://electsys.sjtu.edu.cn/edu/student/sdtMain.aspx)比较下：
+    说实话，sjtu的门户网站真的很好看了，构局很精巧，色彩搭配也很棒。暂且拿它和 [教育信息服务网](http://electsys.sjtu.edu.cn/edu/student/sdtMain.aspx)
 
     1. 教育信息网使用frame较多，排版不够美观，门户网站用class讲各个部件区分明确；
     2. 教育信息网源码<table>中有无意义的<tr>和<td>，且分层较多，影响代码阅读；
